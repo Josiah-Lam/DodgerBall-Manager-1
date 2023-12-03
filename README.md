@@ -22,7 +22,7 @@ You can find these in the VS code testing module, and configure them in `setting
 
 ## Running experiments
 
-Part of this assignment involves running experiments with your implemented methods (and possibly already-implemented methods). You can edit and run `run_experiments.py`, and comment/uncomment out various parts of the code as needed to run it.
+Part of this assignment involves running experiments with the implemented methods. You can edit and run `run_experiments.py`, and comment/uncomment out various parts of the code as needed to run it.
 
 
 
